@@ -1,0 +1,2 @@
+# Effects-of-Immgration-on-Employment-Rate-in-Canada
+This Data analysis delves into the effects of immgration on the current employment sitruation in canada, delving into the relationship of immigrants and job vacanies, payroll employees, and average offered hourly rate. This project uses Tableau for visualization, SQL for data flitering and sorting, Excel and Python for Descriptive data analysis 
